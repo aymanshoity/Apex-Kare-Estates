@@ -1,17 +1,13 @@
 
-Assignment Category: assignment12_category_0011
+Apex Kare Estates
 
 Admin email:pappaya123@gmail.com
 
 Admin password:123456@As
 
-Front-end Live Site Link:https://apexkareestates.netlify.app/
 
-Client Side Github Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-aymanshoity
 
-Server Side Github Repository Link:https://github.com/programming-hero-web-course1/b8a12-server-side-aymanshoity
-
-We have built an website on Building Management
+I have built an website on Building Management using HTML,CSS,JS AND REACT JS IN FRONT-END AND IN THE BACKEND I HAVE USED MONGODB.
 
 Let us think that my owner has  a building in Gulshan and want me to build a website
 We named the website as Apex-Kare-Estates
