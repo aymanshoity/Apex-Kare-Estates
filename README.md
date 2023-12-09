@@ -7,7 +7,7 @@ Admin password:123456@As
 
 
 
-I have built an website on Building Management using HTML,CSS,JS AND REACT JS IN FRONT-END AND IN THE BACKEND I HAVE USED MONGODB.
+I have built an website on Building Management using HTML,CSS,JS AND REACT JS in front-end and in backend I have used MONGODB.
 
 Let us think that my owner has  a building in Gulshan and want me to build a website
 We named the website as Apex-Kare-Estates
